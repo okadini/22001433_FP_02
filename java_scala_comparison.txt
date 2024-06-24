@@ -1,0 +1,3 @@
+1. Java has a verbose synatx that requires explicit declarations but Scala has a concise & expressive syntax.
+2. Java is a purely object-oriented language but Scala is both object-oriented & functional.
+3. Java has limited functional programming but Scala fully supports functional programming.
